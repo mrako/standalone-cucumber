@@ -39,8 +39,4 @@ Pull requests with updates/enhancements/bug fixes are always welcome!
 * http://cukes.info (for general cucumber information)
 * http://github.com/jnicklas/capybara (for actions such as click_link, click_button, etc...)
 
-== Contributors
-
-* {Cucumber mailing list for the project structure}[http://groups.google.com/group/cukes/browse_thread/thread/297163800eaf2968?pli=1]
-* {Todd Huss}[http://gabrito.com]
 

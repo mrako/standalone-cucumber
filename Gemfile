@@ -1,7 +1,8 @@
-source "http://rubygems.org"
+source :rubygems
 
-group(:test) do
+group :test do
   gem 'cucumber'
   gem 'capybara'
   gem 'rspec'
+  gem 'celerity', :require => nil
 end
